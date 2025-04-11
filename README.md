@@ -14,7 +14,8 @@ An interactive Streamlit demo app for exploring and applying common feature engi
 
 ## 🖼️ Demo
 
-<img width="359" alt="Screenshot 2025-04-11 at 1 15 07 AM" src="https://github.com/user-attachments/assets/8c1f38a4-6c45-4035-9b90-f90a5ce0dd74" />
+<img width="727" alt="Screenshot 2025-04-11 at 1 16 14 AM" src="https://github.com/user-attachments/assets/a690bcd1-02bd-409a-80eb-d45603cec623" />
+
 
 
 ## 🛠️ Installation
