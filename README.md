@@ -18,38 +18,49 @@ An interactive Streamlit demo app for exploring and applying common feature engi
 
 ## 🛠️ Installation
 
-```bash```
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 pip install -r requirements.txt
 streamlit run app.py
+```
 
-📦 Requirements
-Python 3.7+
+## 📦 Requirements
 
-pandas
+- Python 3.7+
+- pandas
+- streamlit
+- scikit-learn
 
-streamlit
+Install all dependencies with:
 
-scikit-learn
-
-Install dependencies with:
-
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
-🧪 Example Datasets
-Uses the Titanic dataset by default from Data Science Dojo.
+```
 
-📌 To-Do
- Add support for multiple preprocessing steps
+## 📊 Usage
 
- Add basic model training and performance metrics
+1. Launch the app with `streamlit run app.py`
+2. Upload your dataset or use the default one.
+3. Choose a preprocessing technique from the sidebar.
+4. View the transformed dataset.
 
- Add more datasets
+## 📌 To-Do
 
- Improve UI and add visualizations
+- [ ] Add support for chaining multiple preprocessing steps
+- [ ] Integrate basic ML models for performance testing
+- [ ] Allow visualizations of feature distributions
+- [ ] Add feature selection options
 
-📄 License
-MIT License
+## 🧪 Example Datasets
+
+Uses the Titanic dataset by default from [Data Science Dojo](https://github.com/datasciencedojo/datasets).
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ❤️ using [Streamlit](https://streamlit.io/)
+
